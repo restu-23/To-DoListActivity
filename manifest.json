@@ -1,0 +1,15 @@
+{
+  "name": "To-Do List Pink",
+  "short_name": "ToDo Pink",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffe4e1",
+  "theme_color": "#ff69b4",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1029/1029132.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
